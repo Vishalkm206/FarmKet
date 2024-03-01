@@ -1,0 +1,30 @@
+{
+  "name": "farmket",
+  "version": "1.0.0",
+  "description": "This will contain all the backend file for farmket",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishalkm206/FarmKet.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "Vishal Kumar, Dipesh Kant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishalkm206/FarmKet/issues"
+  },
+  "homepage": "https://github.com/Vishalkm206/FarmKet#readme",
+  "dependencies": {
+    "prettier": "^3.2.5"
+  }
+}
